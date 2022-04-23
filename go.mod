@@ -1,4 +1,4 @@
-module github.com/quantumsheep/go-nyaa
+module github.com/quantumsheep/go-nyaa/v2
 
 go 1.18
 

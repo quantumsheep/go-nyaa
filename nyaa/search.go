@@ -2,7 +2,7 @@ package nyaa
 
 import (
 	"github.com/mmcdole/gofeed"
-	t "github.com/quantumsheep/go-nyaa/types"
+	t "github.com/quantumsheep/go-nyaa/v2/types"
 )
 
 type SearchOptions struct {
