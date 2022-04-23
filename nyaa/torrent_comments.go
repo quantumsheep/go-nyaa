@@ -2,7 +2,7 @@ package nyaa
 
 import (
 	"github.com/gocolly/colly"
-	t "github.com/irevenko/go-nyaa/types"
+	t "github.com/quantumsheep/go-nyaa/types"
 )
 
 func TorrentComments(viewURL string) ([]t.Comment, error) {

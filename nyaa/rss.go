@@ -1,8 +1,8 @@
 package nyaa
 
 import (
-	t "github.com/irevenko/go-nyaa/types"
 	"github.com/mmcdole/gofeed"
+	t "github.com/quantumsheep/go-nyaa/types"
 )
 
 func convertRSS(feed *gofeed.Feed) []t.Torrent {
